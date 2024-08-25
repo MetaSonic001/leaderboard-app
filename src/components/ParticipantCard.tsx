@@ -44,7 +44,7 @@ const ParticipantCard: React.FC<ParticipantCardProps> = ({
         <div>
           <h3 className="text-xl font-bold">{participant.name}</h3>
           <p className="text-sm">{participant.rollNumber}</p>
-          <p className="text-sm">Church name: {participant.churchName}</p>{" "}
+          <p className="text-sm">{participant.churchName}</p>{" "}
           {/* Displaying church name */}
         </div>
       </div>

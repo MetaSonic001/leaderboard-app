@@ -7,7 +7,7 @@ interface TopWinnersProps {
 }
 
 const TopWinners: React.FC<TopWinnersProps> = ({ winners }) => {
-  const trophies = ['🏆', '🥈', '🥉'];
+  const trophies = ['🥇', '🥈', '🥉'];
 
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">

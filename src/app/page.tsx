@@ -15,13 +15,13 @@ const Home: React.FC = () => {
             href="/category-a"
             className="bg-white hover:bg-gray-100 text-purple-600 font-bold py-6 px-12 rounded-lg text-3xl shadow-lg transform hover:scale-105 transition-transform duration-200"
           >
-            Youth Advisors Leaderboard
+            Youth Advisors Scripture Test Results
           </Link>
           <Link
             href="/category-b"
             className="bg-white hover:bg-gray-100 text-pink-600 font-bold py-6 px-12 rounded-lg text-3xl shadow-lg transform hover:scale-105 transition-transform duration-200"
           >
-            Youth Leaderboard
+            Youth Scripture Test Results
           </Link>
         </div>
       </div>
