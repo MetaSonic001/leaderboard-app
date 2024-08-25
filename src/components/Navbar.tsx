@@ -1,9 +1,9 @@
 "use client";
 
+import Image from "next/image";
 import Link from "next/link";
 import { usePathname } from "next/navigation";
 import React, { useState } from "react";
-import Image from "next/image";
 
 const Navbar: React.FC = () => {
   const [isOpen, setIsOpen] = useState(false);
@@ -25,8 +25,8 @@ const Navbar: React.FC = () => {
               <Image
                 src="/BDYFC_logo.png" // Replace with your image path
                 alt="Logo"
-                width={40} // Adjust width as needed
-                height={40} // Adjust height as needed
+                width={58} // Adjust width as needed
+                height={58} // Adjust height as needed
               />
             </div>
             <div className="flex-grow text-center">
