@@ -19,11 +19,11 @@ const ParticipantCard: React.FC<ParticipantCardProps> = ({
   const getImageSrc = (rank: number): string => {
     switch (rank) {
       case 1:
-        return "/1.jpg";
+        return "/1.png";
       case 2:
-        return "/2.jpg";
+        return "/2.png";
       case 3:
-        return "/3.jpg";
+        return "/3.png";
       default:
         return "/4.jpg";
     }

@@ -1,14 +1,16 @@
-import React from 'react';
-import { CategoryData } from '../types';
-import ParticipantList from './ParticipantList';
-import TopWinners from './TopWinners';
+import React from "react";
+import { CategoryData } from "../types";
+import ParticipantList from "./ParticipantList";
+import TopWinners from "./TopWinners";
 
 interface CategoryLeaderboardProps {
   categoryData: CategoryData;
 }
 
-const CategoryLeaderboard: React.FC<CategoryLeaderboardProps> = ({ categoryData }) => {
-  const topWinners = categoryData.participants.slice(0, 3);
+const CategoryLeaderboard: React.FC<CategoryLeaderboardProps> = ({
+  categoryData,
+}) => {
+  const topWinners = categoryData.participants.slice(0, 20);
   const otherParticipants = categoryData.participants.slice(3);
 
   return (
