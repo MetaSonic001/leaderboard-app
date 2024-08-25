@@ -1,6 +1,6 @@
-import Link from 'next/link';
-import React from 'react';
-import ConfettiBackground from '../components/ConfettiBackground';
+import Link from "next/link";
+import React from "react";
+import ConfettiBackground from "../components/ConfettiBackground";
 
 const Home: React.FC = () => {
   return (
@@ -8,7 +8,7 @@ const Home: React.FC = () => {
       <ConfettiBackground />
       <div className="max-w-7xl mx-auto text-center">
         <h1 className="text-6xl font-extrabold mb-12 text-white shadow-text">
-          Youth Competition Leaderboard
+          Scripture Test Results
         </h1>
         <div className="flex flex-col md:flex-row justify-center space-y-6 md:space-y-0 md:space-x-8">
           <Link
@@ -24,7 +24,6 @@ const Home: React.FC = () => {
             Youth Leaderboard
           </Link>
         </div>
-
       </div>
     </div>
   );

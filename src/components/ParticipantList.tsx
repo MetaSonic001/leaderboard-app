@@ -1,27 +1,26 @@
-'use client';
+"use client";
 
-import React, { useState } from 'react';
-import { Participant } from '../types';
-import LoadMoreButton from './LoadMoreButton';
-import ParticipantCard from './ParticipantCard';
-import SearchBar from './SearchBar';
+import React, { useState } from "react";
+import { Participant } from "../types";
+import LoadMoreButton from "./LoadMoreButton";
+import ParticipantCard from "./ParticipantCard";
+import SearchBar from "./SearchBar";
 
 interface ParticipantListProps {
   participants: Participant[];
 }
 
 const ParticipantList: React.FC<ParticipantListProps> = ({ participants }) => {
-  const [searchTerm, setSearchTerm] = useState('');
+  const [searchTerm, setSearchTerm] = useState("");
   const [displayCount, setDisplayCount] = useState(10);
 
-  const filteredParticipants = participants.filter((participant) =>
-    participant.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    participant.gender.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    participant.rollNumber.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    participant.rank.toString().includes(searchTerm)
+  const filteredParticipants = participants.filter(
+    (participant) =>
+      participant.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+      participant.rollNumber.toLowerCase().includes(searchTerm.toLowerCase())
   );
 
-  const displayedParticipants = filteredParticipants.slice(3, displayCount);
+  const displayedParticipants = filteredParticipants;
 
   const handleLoadMore = () => {
     setDisplayCount((prevCount) => prevCount + 10);

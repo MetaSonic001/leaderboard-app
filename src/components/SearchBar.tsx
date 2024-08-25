@@ -1,4 +1,4 @@
-import React from 'react';
+import React from "react";
 
 interface SearchBarProps {
   searchTerm: string;
@@ -10,7 +10,7 @@ const SearchBar: React.FC<SearchBarProps> = ({ searchTerm, setSearchTerm }) => {
     <div className="mb-6">
       <input
         type="text"
-        placeholder="Search by name, gender, roll number, or rank"
+        placeholder="Search by name,roll number"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
         className="w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
