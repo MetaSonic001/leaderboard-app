@@ -13,9 +13,9 @@ const CategoryLeaderboard: React.FC<CategoryLeaderboardProps> = ({ categoryData 
 
   return (
     <div className="mb-16">
-      <h2 className="text-5xl font-bold mb-12 text-center text-white shadow-text">
+      {/* <h2 className="text-5xl font-bold mb-12 text-center text-white shadow-text">
         {categoryData.categoryName} Leaderboard
-      </h2>
+      </h2> */}
       <TopWinners winners={topWinners} />
       <ParticipantList participants={otherParticipants} />
     </div>
