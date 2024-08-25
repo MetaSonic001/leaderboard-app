@@ -1,14 +1,14 @@
-ROLL NO,Full Name ,DOB,Gender,Role,Your Church Name (with Language & Location),Language,Marks,Rank,Proper Ranks
+ROLL NO,Full Name ,DOB,Gender,Role,churchName,Language,Marks,Rank,Proper Ranks
 YST24012,Nimmie Baskar,01-01-1975,Female,Youth Advisor,"Bethel Tamil Church,Chembur",Tamil,82,1,1
 YST24015,Cindhiya,11-07-2024,Female,Youth Advisor,"Jubilee Tamil Church CNI, Sanpada ",Tamil,80,2,2
-YST24065,Ida Immanuel ,06-03-1993,Female,Youth Advisor,ST ANDREW'S TAMIL CHURCH KANDIVALI,Tamil,79,3,3
+YST24065,Ida Immanuel ,06-03-1993,Female,Youth Advisor,St. Andrew's Tamil Church, Kandivali,Tamil,79,3,3
 YST24077,Mrs. Christal Samuel,03-02-1976,Female,Youth Advisor,St. Lukes Tamil Church Kalyan East,Tamil,72,4,4
-YST24056,Nalini Rajamani,21-05-1982,Female,Youth Advisor,"All Saints Tamil Church (English and Tamil, Govandi)",Tamil,61,5,5
+YST24056,Nalini Rajamani,21-05-1982,Female,Youth Advisor,"All Saints Tamil Church, Govandi",Tamil,61,5,5
 YST24072,Issac John Jeyaraj,06-03-1991,Male,Youth Advisor,"Holy Trinity Tamil Church CNI, Tamil",Tamil,61,5.5,5
 YST24032,Chandler Jesudason,09-03-1969,Male,Youth Advisor,St Paul Tamil church Dombivli ,Tamil,55,7,7
 YST24033,Sunithi Chandler,19-11-1975,Female,Youth Advisor,St Paul Tamil church Dombivli ,English,46,8,8
-YST24055,Felcia Elisha ,01-10-1979,Female,Youth Advisor,"All Saints Tamil Church (English and tamil, Govandi)",Tamil,44,9,9
+YST24055,Felcia Elisha ,01-10-1979,Female,Youth Advisor,"All Saints Tamil Church, Govandi",Tamil,44,9,9
 YST24073,Justin ,06-09-1995,Male,Youth Advisor,"Holy Trinity Tamil Church CNI, Tamil",English,25,10,10
 YST24014,Virginia Peter ,27-08-1996,Female,Youth Advisor,"Jubilee Tamil Church CNI, Sanpada ",English,0,11,11
 YST24060,Daisy John ,10-12-1973,Female,Youth Advisor,"St.Stephen Tamil Church, Bhandup ",Tamil,0,11.33333333,11
-YST24042,Albertraj nadar,13-01-2008,Male,Youth Advisor,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,11.66666667,11
+YST24042,Albertraj nadar,13-01-2008,Male,Youth Advisor,"St. John's Tamil Church, Goregaon",English,0,11.66666667,11

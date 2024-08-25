@@ -3,6 +3,7 @@ export interface RawParticipantData {
     'Full Name': string;
     'Gender': string;
     'Marks': number;
+    'churchName': string;
     'Proper Ranks': number;
     [key: string]: string | number; // This allows for other properties in the raw data
   }
@@ -14,6 +15,7 @@ export interface RawParticipantData {
     gender: string;
     rank: number;
     marks: number;
+    churchName:string;
     avatar: string;
   }
   

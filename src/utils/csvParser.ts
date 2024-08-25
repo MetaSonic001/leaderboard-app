@@ -15,6 +15,7 @@ export function parseCSV(filePath: string): Promise<CategoryData[]> {
           name: data.name,
           gender: data.gender,
           marks: parseInt(data.marks),
+          churchName: data.churchName,
           rank: parseInt(data.rank),
           avatar: data.avatar || `https://i.pravatar.cc/150?img=${data.id}`,
         });

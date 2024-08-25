@@ -1,16 +1,16 @@
-ROLL NO,Full Name ,DOB,Gender,Role,Your Church Name (with Language & Location),Language,Marks,Ranks,Proper Ranks
-YST24057,V. Jacob Selvin ,06-08-2002,Male,Youth,"All Saints Tamil Church (English and tamil, Govandi)",English,83,1,1
+ROLL NO,Full Name ,DOB,Gender,Role,churchName,Language,Marks,Ranks,Proper Ranks
+YST24057,V. Jacob Selvin ,06-08-2002,Male,Youth,"All Saints Tamil Church, Govandi",English,83,1,1
 YST24039,Mercy Charles,14-08-1999,Female,Youth,"Home of Faith Tamil Church, Thane",English,80,2,2
 YST24084,Charis Delfia ,28-12-1997,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,79,3,3
-YST24018,Vashni Nadar ,14-06-2005,Female,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,78,4,4
+YST24018,Vashni Nadar ,14-06-2005,Female,Youth,St. Andrew's Tamil Church, Kandivali,English,78,4,4
 YST24003,Jacklin Emilda Suresh ,25-08-1998,Female,Youth,St Paul Tamil church Dombivli ,English,77,5,5
 YST24145,Raychal Simon,08-08-2003,Female,Youth,"Bethel Tamil Church,Chembur",English,76,6,6
 YST24076,Jolin Kennedy ,23-09-1997,Female,Youth,St Paul Tamil church Dombivli ,English,75,7,7
-YST24112,DEVADASAN GLADYS JEBAMANI,17-06-2001,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,73,8,8
+YST24112,DEVADASAN GLADYS JEBAMANI,17-06-2001,Female,Youth,"St. John's Tamil Church, Goregaon",English,73,8,8
 YST24004,Jerin Elsi Ramya S ,02-12-2001,Female,Youth,St Paul Tamil church Dombivli ,English,70,9,9
-YST24009,Sylvia ,08-12-2005,Female,Youth,CNI CHRIST CHURCH POISAR KANDIVALI WEST,English,69,10,10
+YST24009,Sylvia ,08-12-2005,Female,Youth,CNI Christ Church, Poisar,English,69,10,10
 YST24122,Usharani,10-03-2000,Female,Youth,"GOOD SHEPHERD CHURCH,(ENGLISH, DHARAVI.) ",English,67,11,11
-YST24022,Reniyas Kanagaraj ,19-09-2005,Male,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,67,11.5,11
+YST24022,Reniyas Kanagaraj ,19-09-2005,Male,Youth,St. Andrew's Tamil Church, Kandivali,English,67,11.5,11
 YST24080,Sumitha Gnanamalar,10-05-1998,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,62,13,13
 YST24081,Nancy Sam,07-12-1999,Female,Youth,St. Lukes Tamil Church Kalyan East,English,61,14,14
 YST24124,Beula Sherlin ,23-12-2004,Female,Youth,St. Lukes Tamil Church Kalyan East,English,59,15,15
@@ -18,96 +18,96 @@ YST24089,Joyselin Sweety Samuel ,09-11-2004,Female,Youth,St. Lukes Tamil Church 
 YST24142,Karunyamary Nadar,26-02-1993,Female,Youth,St. Lukes Tamil Church Kalyan East,English,58,16.5,16
 YST24148,Franklin Samuel,25-09-2002,Male,Youth,"Bethel Tamil Church,Chembur",English,57,18,18
 YST24149,Nibin Simon,15-05-2005,Male,Youth,"Bethel Tamil Church,Chembur",English,56,19,19
-YST24020,Babila sweetlin Nadar,21-09-2004,Female,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,55,20,20
+YST24020,Babila sweetlin Nadar,21-09-2004,Female,Youth,St. Andrew's Tamil Church, Kandivali,English,55,20,20
 YST24074,Infenta ,13-04-1997,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,54,21,21
 YST24150,Blessia Paulraj ,05-11-1998,Female,Youth,"Bethel Tamil Church,Chembur",English,53,22,22
 YST24114,Jasmine Kumar ,19-11-1998,Female,Youth,"GOOD SHEPHERD CHURCH,(ENGLISH, DHARAVI.) ",English,52,23,23
-YST24038,Ebanasar,29-06-1994,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,52,23.5,23
-YST24021,Roselin peter,09-09-1995,Female,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,50,25,25
+YST24038,Ebanasar,29-06-1994,Female,Youth,"St. John's Tamil Church, Goregaon",English,52,23.5,23
+YST24021,Roselin peter,09-09-1995,Female,Youth,St. Andrew's Tamil Church, Kandivali,English,50,25,25
 YST24045,ABISTAN SELVARAJ,05-04-2000,Male,Youth,"St.Stephen Tamil Church, Bhandup ",English,48,26,26
-YST24017,Ahimas Jason,12-01-1999,Male,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,45,27,27
+YST24017,Ahimas Jason,12-01-1999,Male,Youth,St. Andrew's Tamil Church, Kandivali,English,45,27,27
 YST24035,Joselin Sweety Daniel ,15-12-2001,Female,Youth,St Paul Tamil church Dombivli ,English,44,28,28
-YST24103,Rachel Padmanathan,22-02-2002,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,44,28.5,28
-YST24130,Joshiba Paulraj ,05-08-1997,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,43,30,30
-YST24058,V. JENIFFER IREIN,27-09-2005,Female,Youth,"All Saints Tamil Church (English and tamil, Govandi)",English,42,31,31
+YST24103,Rachel Padmanathan,22-02-2002,Female,Youth,"St. John's Tamil Church, Goregaon",English,44,28.5,28
+YST24130,Joshiba Paulraj ,05-08-1997,Female,Youth,"St. John's Tamil Church, Goregaon",English,43,30,30
+YST24058,V. JENIFFER IREIN,27-09-2005,Female,Youth,"All Saints Tamil Church, Govandi",English,42,31,31
 YST24002,Hephzibha Sardius Anandarajan ,15-02-2003,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,42,31.33333333,31
 YST24028,Chelsia Sardonyx ,19-02-2001,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,42,31.66666667,31
-YST24136,Saron Arun Nadar ,29-10-2005,Female,Youth,"All Saints Tamil Church (English and tamil, Govandi)",English,41,34,34
-YST24024,Jenisha Padmanathan Nadar,21-02-2004,Female,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,40,35,35
-YST24068,Belis Gethsiya Salomonraj Nadar ,16-11-2006,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,40,35.5,35
+YST24136,Saron Arun Nadar ,29-10-2005,Female,Youth,"All Saints Tamil Church, Govandi",English,41,34,34
+YST24024,Jenisha Padmanathan Nadar,21-02-2004,Female,Youth,St. Andrew's Tamil Church, Kandivali,English,40,35,35
+YST24068,Belis Gethsiya Salomonraj Nadar ,16-11-2006,Female,Youth,"St. John's Tamil Church, Goregaon",English,40,35.5,35
 YST24131,Miracle Andrews ,13-04-2004,Male,Youth,Bethany Tamil Church (Mira road),English,39,37,37
 YST24034,Jenisha Justin ,05-01-2000,Female,Youth,St Paul Tamil church Dombivli ,English,39,37.5,37
-YST24097,Kalaiarasi Selvam Nadar ,20-11-2005,Female,Youth,Grace church (Tamil & Sion koliwada),English,37,39,39
+YST24097,Kalaiarasi Selvam Nadar ,20-11-2005,Female,Youth,Grace Church Koliwada, Sion,English,37,39,39
 YST24128,Sanjana Charles ,15-11-2000,Female,Youth,"GOOD SHEPHERD CHURCH,(ENGLISH, DHARAVI.) ",English,36,40,40
 YST24054,Princy Stella John,13-02-1998,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,36,40.33333333,40
 YST24070,Josephin rebakal nadar,29-09-2005,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,36,40.66666667,40
-YST24013,Velankanni Mariaraj,07-11-2003,Female,Youth,CNI CHRIST CHURCH POISAR KANDIVALI WEST,Tamil,35,43,43
+YST24013,Velankanni Mariaraj,07-11-2003,Female,Youth,CNI Christ Church, Poisar,Tamil,35,43,43
 YST24066,Jestina Helin ,21-03-2002,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,34,44,44
 YST24138,Joycy Chellathai,19-09-2001,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",Tamil,34,44.5,44
-YST24008,JEBA ROSELIN,25-07-2004,Female,Youth,CNI CHRIST CHURCH POISAR KANDIVALI WEST,English,33,46,46
+YST24008,JEBA ROSELIN,25-07-2004,Female,Youth,CNI Christ Church, Poisar,English,33,46,46
 YST24030,Priscilla Augustine Rajan,19-08-2004,Female,Youth,"Jubilee Tamil Church CNI, Sanpada ",English,32,47,47
 YST24095,Jaffrin Mizpw,11-08-2004,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,32,47.5,47
 YST24063,Abhida Switlin Stephen,11-02-2002,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,31,49,49
 YST24119,Nallathai Nalsiyal ,01-05-1998,Female,Youth,"GOOD SHEPHERD CHURCH,(ENGLISH, DHARAVI.) ",English,30,50,50
-YST24050,Sara Jelsi ,07-09-2002,Female,Youth,"All Saints Tamil Church (English and tamil, Govandi)",English,30,50.33333333,50
+YST24050,Sara Jelsi ,07-09-2002,Female,Youth,"All Saints Tamil Church, Govandi",English,30,50.33333333,50
 YST24010,Jason Immanuel ,24-08-2006,Male,Youth,"Bethel Tamil Church,Chembur",English,30,50.66666667,50
 YST24143,Annugraha Joseph,19-01-2003,Female,Youth,"Bethel Tamil Church,Chembur",English,29,53,53
 YST24135,Joel Cyrus,03-10-2002,Male,Youth,St Paul Tamil church Dombivli ,English,28,54,54
 YST24105,Jesudaas ,21-12-1999,Male,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,28,54.5,54
-YST24075,SHILPA JOHNRAJ,16-04-2002,Female,Youth,CNI CHRIST CHURCH POISAR KANDIVALI WEST,English,27,56,56
+YST24075,SHILPA JOHNRAJ,16-04-2002,Female,Youth,CNI Christ Church, Poisar,English,27,56,56
 YST24147,Blesson Sudhakar,13-02-2001,Male,Youth,"Bethel Tamil Church,Chembur",English,27,56.33333333,56
 YST24151,Manisha Rajan,14-01-2006,Female,Youth,"Bethel Tamil Church,Chembur",English,27,56.66666667,56
-YST24007,Alisha Mareeina Ruban ,12-07-2003,Female,Youth,CNI CHRIST CHURCH POISAR KANDIVALI WEST,English,26,59,59
+YST24007,Alisha Mareeina Ruban ,12-07-2003,Female,Youth,CNI Christ Church, Poisar,English,26,59,59
 YST24078,Shelcia Jinal Pauldurai,18-07-2002,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,26,59.2,59
-YST24062,GIFTSTONE PAUL R K,19-10-2002,Male,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,26,59.4,59
+YST24062,GIFTSTONE PAUL R K,19-10-2002,Male,Youth,St. Andrew's Tamil Church, Kandivali,English,26,59.4,59
 YST24139,Stephen veeramani ,24-12-1998,Male,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,26,59.6,59
 YST24144,Belsa Kamaraj ,07-06-2006,Female,Youth,"Bethel Tamil Church,Chembur",English,26,59.8,59
-YST24101,Sterlina Rajan,26-09-2007,Female,Youth,Grace church (Tamil & Sion koliwada),English,25,64,64
+YST24101,Sterlina Rajan,26-09-2007,Female,Youth,Grace Church Koliwada, Sion,English,25,64,64
 YST24011,Jefin Judson,01-10-2007,Male,Youth,"Bethel Tamil Church,Chembur",English,25,64.5,64
 YST24016,Sheba Jesica Enoch,20-10-2006,Female,Youth,"Jubilee Tamil Church CNI, Sanpada ",English,24,66,66
 YST24094,Apisa Balraj ,10-10-2005,Female,Youth,St. Lukes Tamil Church Kalyan East,English,23,67,67
 YST24113,Manisha Christy ,15-11-1996,Female,Youth,"GOOD SHEPHERD CHURCH,(ENGLISH, DHARAVI.) ",English,22,68,68
 YST24129,S Samjoel,08-06-2002,Male,Youth,Bethany Tamil church (mira road),English,21,69,69
 YST24126,Steffi Richa Dhinakaran,26-08-2006,Female,Youth,St Paul Tamil church Dombivli ,English,20,70,70
-YST24085,Jenifer ,18-11-1999,Female,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,20,70.5,70
+YST24085,Jenifer ,18-11-1999,Female,Youth,St. Andrew's Tamil Church, Kandivali,English,20,70.5,70
 YST24118,Beulah ,08-04-2007,Female,Youth,"GOOD SHEPHERD CHURCH,(ENGLISH, DHARAVI.) ",English,19,72,72
-YST24093,Jebagenesis ,07-02-2003,Male,Youth,Grace church (Tamil & Sion koliwada),English,18,73,73
+YST24093,Jebagenesis ,07-02-2003,Male,Youth,Grace Church Koliwada, Sion,English,18,73,73
 YST24098,Jence Peter ,02-03-2002,Female,Youth,St. Lukes Tamil Church Kalyan East,English,18,73.25,73
-YST24088,Albertraj ,13-01-2008,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,18,73.5,73
-YST24110,Sheryl Joanne,10-04-2007,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,18,73.75,73
+YST24088,Albertraj ,13-01-2008,Male,Youth,"St. John's Tamil Church, Goregaon",English,18,73.5,73
+YST24110,Sheryl Joanne,10-04-2007,Female,Youth,"St. John's Tamil Church, Goregaon",English,18,73.75,73
 YST24125,Samuel Selvakumar ,28-08-2002,Male,Youth,"Jubilee Tamil Church CNI, Sanpada ",English,17,77,77
 YST24083,Mercy Sam,27-10-1998,Female,Youth,St. Lukes Tamil Church Kalyan East,English,17,77.33333333,77
 YST24500,Naresh,24-04-2001,Male,Youth,St Paul Tamil church Dombivli ,English,17,77.66666667,77
 YST24501,David,10-09-2000,Male,Youth,St Paul Tamil church Dombivli ,English,16,80,80
-YST24036,Joel Bhaskar,14-06-2001,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,16,80.5,80
+YST24036,Joel Bhaskar,14-06-2001,Male,Youth,"St. John's Tamil Church, Goregaon",English,16,80.5,80
 YST24121,Justin Enoch,22-10-2001,Male,Youth,"Jubilee Tamil Church CNI, Sanpada ",English,15,82,82
-YST24025,Anish Padmanathan Nadar,12-03-2005,Male,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,15,82.5,82
+YST24025,Anish Padmanathan Nadar,12-03-2005,Male,Youth,St. Andrew's Tamil Church, Kandivali,English,15,82.5,82
 YST24082,Paul Samuel Sheban ,29-01-2002,Male,Youth,"Jubilee Tamil Church CNI, Sanpada ",English,14,84,84
-YST24053,Lency Rajan ,25-07-2008,Female,Youth,"All Saints Tamil Church (English and tamil, Govandi)",English,14,84.33333333,84
+YST24053,Lency Rajan ,25-07-2008,Female,Youth,"All Saints Tamil Church, Govandi",English,14,84.33333333,84
 YST24091,Stajina Nadar ,29-11-1999,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,14,84.66666667,84
 YST24046,Vijay Selvam Anthony raj Pandidhar ,01-10-2007,Male,Youth,"St.Stephen Tamil Church, Bhandup ",English,13,87,87
-YST24087,Anbu ,13-07-2004,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",Tamil,12,88,88
-YST24051,J Aashish Ezra,02-03-2007,Male,Youth,"All Saints Tamil Church (English and tamil, Govandi)",English,11,89,89
-YST24059,V. Alex baby,18-10-2004,Female,Youth,"All Saints Tamil Church (English and tamil, Govandi)",Tamil,11,89.25,89
+YST24087,Anbu ,13-07-2004,Female,Youth,"St. John's Tamil Church, Goregaon",Tamil,12,88,88
+YST24051,J Aashish Ezra,02-03-2007,Male,Youth,"All Saints Tamil Church, Govandi",English,11,89,89
+YST24059,V. Alex baby,18-10-2004,Female,Youth,"All Saints Tamil Church, Govandi",Tamil,11,89.25,89
 YST24096,Mercy joseph ,12-09-2006,Female,Youth,St. Lukes Tamil Church Kalyan East,English,11,89.5,89
-YST24023,Jenithra Padmanathan Nadar,26-01-2001,Female,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,11,89.75,89
-YST24052,Joshua Elisha ,30-01-2006,Male,Youth,"All Saints Tamil Church (English and tamil, Govandi)",English,9,93,93
+YST24023,Jenithra Padmanathan Nadar,26-01-2001,Female,Youth,St. Andrew's Tamil Church, Kandivali,English,11,89.75,89
+YST24052,Joshua Elisha ,30-01-2006,Male,Youth,"All Saints Tamil Church, Govandi",English,9,93,93
 YST24134,Shereen selwyn  ,15-11-2006,Female,Youth,St Paul Tamil church Dombivli ,English,9,93.25,93
-YST24041,Edison moses,10-10-2006,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,9,93.5,93
-YST24086,Jeron Bhaskar Nadar,10-10-2006,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,9,93.75,93
+YST24041,Edison moses,10-10-2006,Male,Youth,"St. John's Tamil Church, Goregaon",English,9,93.5,93
+YST24086,Jeron Bhaskar Nadar,10-10-2006,Male,Youth,"St. John's Tamil Church, Goregaon",English,9,93.75,93
 YST24064,Ashwin Daniel Edward John,28-10-1999,Male,Youth,"St.Stephen Tamil Church, Bhandup ",English,8,97,97
 YST24137,Salomi prakash,08-10-1996,Female,Youth,St. Lukes Tamil Church Kalyan East,English,7,98,98
 YST24047,Selvakumari,20-06-2002,Female,Youth,"St.Stephen Tamil Church, Bhandup ",Tamil,7,98.16666667,98
 YST24107,Jansi Susai,28-06-2002,Female,Youth,"St.Stephen Tamil Church, Bhandup ",English,7,98.33333333,98
 YST24109,Roy marshal,11-07-2005,Male,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,7,98.5,98
-YST24111,Ponsubharaj Ponraj,14-10-2006,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,7,98.66666667,98
-YST24117,Ponanburaj Ponraj nadar,17-06-2004,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,7,98.83333333,98
+YST24111,Ponsubharaj Ponraj,14-10-2006,Male,Youth,"St. John's Tamil Church, Goregaon",English,7,98.66666667,98
+YST24117,Ponanburaj Ponraj nadar,17-06-2004,Male,Youth,"St. John's Tamil Church, Goregaon",English,7,98.83333333,98
 YST24001,Kevin Suvarna,04-02-2003,Male,Youth,"All Saints' Church, English, Malabar Hill, South Mumbai",English,0,104,104
 YST24027,Prinshia Silas,20-03-1997,Female,Youth,St.Stephen's Church Bandra English,English,0,104.025,104
 YST24044,NASVEEDA DAVID,01-11-2000,Female,Youth,"ST.MARK'S TAMIL CHURCH , VIKHROLI EAST",English,0,104.05,104
 YST24049,Olivia David,10-01-2006,Female,Youth,"ST.MARK'S TAMIL CHURCH , VIKHROLI EAST",English,0,104.075,104
 YST24120,DAISE RANI GANA RAJ,06-02-1998,Female,Youth,"GOOD SHEPHERD CHURCH,(ENGLISH, DHARAVI.) ",English,0,104.1,104
-YST24006,Evangelin Inbaraj,09-03-2005,Female,Youth,CNI CHRIST CHURCH POISAR KANDIVALI WEST,English,0,104.125,104
+YST24006,Evangelin Inbaraj,09-03-2005,Female,Youth,CNI Christ Church, Poisar,English,0,104.125,104
 YST24005,Angel Victor Samuel ,07-02-2007,Female,Youth,"Church of Righteousness ,Thane",English,0,104.15,104
 YST24026,Anupradiksha Rajan,23-09-1997,Female,Youth,"Church of Righteousness ,Thane",English,0,104.175,104
 YST24040,Alishnivetha Joseph,06-07-1998,Female,Youth,"Home of Faith Tamil Church , Thane",English,0,104.2,104
@@ -122,7 +122,7 @@ YST24090,John David jenis,13-02-2002,Male,Youth,St Paul Tamil church Dombivli ,E
 YST24092,Roopa Singaravel ,06-03-2001,Female,Youth,St Paul Tamil church Dombivli ,English,0,104.425,104
 YST24132,Jovin Samraj Daniel,31-03-1999,Male,Youth,St Paul Tamil church Dombivli ,English,0,104.45,104
 YST24133,Bharath Rathinasabapathy ,05-03-2005,Male,Youth,St Paul Tamil church Dombivli ,English,0,104.475,104
-YST24019,Veshlin Nadar ,06-06-2007,Male,Youth,ST ANDREW'S TAMIL CHURCH KANDIVALI,English,0,104.5,104
+YST24019,Veshlin Nadar ,06-06-2007,Male,Youth,St. Andrew's Tamil Church, Kandivali,English,0,104.5,104
 YST24069,Baby manoharan ,12-08-1999,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,0,104.525,104
 YST24071,Immanuel Deva singh nadar,19-11-2000,Male,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,0,104.55,104
 YST24079,Vasanthapriya Chelladurai ,21-12-1996,Female,Youth,"Holy Trinity Tamil Church CNI, Tamil",English,0,104.575,104
@@ -131,14 +131,14 @@ YST24146,Sujamalar Selvin ,26-03-2006,Female,Youth,"Bethel Tamil Church,Chembur"
 YST24152,Rajkumar Pauldurai,07-04-2002,Male,Youth,"Bethel Tamil Church,Chembur",English,0,104.65,104
 YST24153,Jebamariyal Aruldas,18-01-2002,Female,Youth,"Bethel Tamil Church,Chembur",English,0,104.675,104
 YST24154,Shalini Devasahayam,27-04-2002,Female,Youth,"Bethel Tamil Church,Chembur",English,0,104.7,104
-YST24037,Naomi Pillai,26-01-2003,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.725,104
-YST24043,Edison moses,10-10-2006,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.75,104
-YST24048,Steve Simon,16-09-2004,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.775,104
-YST24067,Belis Gethsiya Salomonraj Nadar ,16-11-2006,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.8,104
-YST24100,Blessy ,27-04-2003,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",Tamil,0,104.825,104
-YST24104,Asir David,26-07-1997,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.85,104
-YST24108,Edison moses,10-10-2006,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.875,104
-YST24115,Delsy Wilson,03-01-2003,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.9,104
-YST24116,Melwin Priscilla ,02-12-1998,Female,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.925,104
-YST24140,Jebas Delfin ,21-10-1996,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.95,104
-YST24141,VIMAL. R,23-06-1995,Male,Youth,"ST. JOHN'S TAMIL CHURCH, GOREGAON",English,0,104.975,104
+YST24037,Naomi Pillai,26-01-2003,Female,Youth,"St. John's Tamil Church, Goregaon",English,0,104.725,104
+YST24043,Edison moses,10-10-2006,Male,Youth,"St. John's Tamil Church, Goregaon",English,0,104.75,104
+YST24048,Steve Simon,16-09-2004,Male,Youth,"St. John's Tamil Church, Goregaon",English,0,104.775,104
+YST24067,Belis Gethsiya Salomonraj Nadar ,16-11-2006,Female,Youth,"St. John's Tamil Church, Goregaon",English,0,104.8,104
+YST24100,Blessy ,27-04-2003,Female,Youth,"St. John's Tamil Church, Goregaon",Tamil,0,104.825,104
+YST24104,Asir David,26-07-1997,Male,Youth,"St. John's Tamil Church, Goregaon",English,0,104.85,104
+YST24108,Edison moses,10-10-2006,Male,Youth,"St. John's Tamil Church, Goregaon",English,0,104.875,104
+YST24115,Delsy Wilson,03-01-2003,Female,Youth,"St. John's Tamil Church, Goregaon",English,0,104.9,104
+YST24116,Melwin Priscilla ,02-12-1998,Female,Youth,"St. John's Tamil Church, Goregaon",English,0,104.925,104
+YST24140,Jebas Delfin ,21-10-1996,Male,Youth,"St. John's Tamil Church, Goregaon",English,0,104.95,104
+YST24141,VIMAL. R,23-06-1995,Male,Youth,"St. John's Tamil Church, Goregaon",English,0,104.975,104

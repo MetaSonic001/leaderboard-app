@@ -12,6 +12,7 @@ function processRawData(rawData: RawParticipantData[]): Participant[] {
     gender: item['Gender'],
     rank: item['Proper Ranks'],
     marks: item['Marks'],
+    churchName: String(item['churchName']), // Ensure churchName is a string
     avatar: `https://i.pravatar.cc/150?img=${index + 1}`,
   }));
 }
