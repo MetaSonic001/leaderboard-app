@@ -10,10 +10,10 @@ const SearchBar: React.FC<SearchBarProps> = ({ searchTerm, setSearchTerm }) => {
     <div className="mb-6">
       <input
         type="text"
-        placeholder="Search by name,roll number"
+        placeholder="Search by name, roll number, church, gender, rank, or marks"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
-        className="w-full px-4 py-2 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500"
+        className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 text-lg shadow-md transition duration-300 ease-in-out"
       />
     </div>
   );

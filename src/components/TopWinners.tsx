@@ -12,8 +12,8 @@ const TopWinners: React.FC<TopWinnersProps> = ({ winners }) => {
   return (
     <div className="grid grid-cols-1 md:grid-cols-3 gap-8 mb-12">
       {winners.map((winner, index) => (
-        <div key={winner.id} className="relative">
-          <div className="absolute -top-8 left-1/2 transform -translate-x-1/2 text-4xl">
+        <div key={winner.id} className="relative pt-12"> {/* Added padding-top */}
+          <div className="absolute top-0 left-1/2 transform -translate-x-1/2 text-6xl z-10">
             {trophies[index]}
           </div>
           <ParticipantCard participant={winner} isTopWinner={true} />

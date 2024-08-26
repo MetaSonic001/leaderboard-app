@@ -6,14 +6,12 @@ interface LoadMoreButtonProps {
 
 const LoadMoreButton: React.FC<LoadMoreButtonProps> = ({ onClick }) => {
   return (
-    <div className="text-center mt-8">
-      <button
-        onClick={onClick}
-        className="bg-orange-500 hover:bg-orange-600 text-white font-bold py-4 px-8 rounded text-lg sm:text-xl md:text-2xl lg:text-3xl"
-      >
-        Load More
-      </button>
-    </div>
+    <button
+      onClick={onClick}
+      className="bg-blue-500 hover:bg-blue-600 text-white font-bold py-3 px-6 rounded-full text-lg transition duration-300 ease-in-out transform hover:scale-105 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:ring-opacity-50"
+    >
+      Load More
+    </button>
   );
 };
 
