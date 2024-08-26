@@ -30,7 +30,9 @@ const Navbar: React.FC = () => {
               />
             </div>
             <div className="flex-grow text-center">
-              <h1 className="text-white text-xl font-bold">BDYFC</h1>
+              <h1 className="text-white text-xl font-bold">
+                BOMBAY DIOCESAN YOUTH FELLOWSHIP COMMITTEE
+              </h1>
             </div>
           </div>
 
