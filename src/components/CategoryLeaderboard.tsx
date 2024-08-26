@@ -1,7 +1,8 @@
-import React, { useState } from 'react';
+import React, { useMemo, useState } from 'react';
 import { CategoryData } from '../types';
 import ParticipantList from './ParticipantList';
 import SearchBar from './SearchBar';
+import Top20List from './Top20List';
 import TopWinners from './TopWinners';
 
 interface CategoryLeaderboardProps {
@@ -11,24 +12,27 @@ interface CategoryLeaderboardProps {
 const CategoryLeaderboard: React.FC<CategoryLeaderboardProps> = ({ categoryData }) => {
   const [searchTerm, setSearchTerm] = useState('');
 
-  const topThree = categoryData.participants.slice(0, 3);
-  const remainingParticipants = categoryData.participants.slice(3);
+  const filteredParticipants = useMemo(() => {
+    return categoryData.participants.filter(
+      (participant) =>
+        participant.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        participant.rollNumber.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        participant.churchName.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        participant.gender.toLowerCase().includes(searchTerm.toLowerCase()) ||
+        participant.rank.toString().includes(searchTerm)
+    );
+  }, [categoryData.participants, searchTerm]);
 
-  const filteredParticipants = remainingParticipants.filter(
-    (participant) =>
-      participant.name.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      participant.rollNumber.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      participant.churchName.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      participant.gender.toLowerCase().includes(searchTerm.toLowerCase()) ||
-      participant.rank.toString().includes(searchTerm) ||
-      participant.marks.toString().includes(searchTerm)
-  );
+  const topThree = filteredParticipants.slice(0, 3);
+  const top20 = filteredParticipants.slice(3, 20);
+  const remainingParticipants = filteredParticipants.slice(20);
 
   return (
     <div className="space-y-8">
-      <TopWinners winners={topThree} />
       <SearchBar searchTerm={searchTerm} setSearchTerm={setSearchTerm} />
-      <ParticipantList participants={filteredParticipants} />
+      <TopWinners winners={topThree} />
+      <Top20List participants={top20} />
+      <ParticipantList participants={remainingParticipants} />
     </div>
   );
 };

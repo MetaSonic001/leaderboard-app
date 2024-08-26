@@ -7,13 +7,13 @@ interface SearchBarProps {
 
 const SearchBar: React.FC<SearchBarProps> = ({ searchTerm, setSearchTerm }) => {
   return (
-    <div className="mb-6">
+    <div className="mb-8">
       <input
         type="text"
-        placeholder="Search by name, roll number, church, gender, rank, or marks"
+        placeholder="Search by name, roll number, church, gender, or rank"
         value={searchTerm}
         onChange={(e) => setSearchTerm(e.target.value)}
-        className="w-full px-4 py-3 rounded-lg border border-gray-300 focus:outline-none focus:ring-2 focus:ring-blue-500 text-lg shadow-md transition duration-300 ease-in-out"
+        className="w-full px-6 py-4 rounded-full border-2 border-blue-500 focus:outline-none focus:ring-2 focus:ring-blue-500 text-lg shadow-md transition duration-300 ease-in-out"
       />
     </div>
   );
