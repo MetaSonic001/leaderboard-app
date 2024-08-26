@@ -52,10 +52,6 @@ const ParticipantCard: React.FC<ParticipantCardProps> = ({
           <p className="text-3xl font-bold">{participant.rank}</p>
         </div>
         <div className="text-center">
-          <p className="text-sm opacity-75">Marks</p>
-          <p className="text-3xl font-bold">{participant.marks}</p>
-        </div>
-        <div className="text-center">
           <p className="text-sm opacity-75">Gender</p>
           <p className="text-xl">{participant.gender}</p>
         </div>

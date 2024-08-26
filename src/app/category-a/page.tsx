@@ -12,9 +12,6 @@ const CategoryAPage: React.FC = () => {
       <h2 className="text-5xl font-bold mb-4 text-center text-white shadow-text">
         Youth Advisors Scripture Test Results
       </h2>
-      <h3 className="text-3xl font-bold mb-12 text-center text-white shadow-text">
-        Top 20
-      </h3>
       <div className="max-w-7xl mx-auto">
         <CategoryLeaderboard categoryData={categoryAData} />
       </div>
