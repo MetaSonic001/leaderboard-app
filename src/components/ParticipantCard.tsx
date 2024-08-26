@@ -5,14 +5,18 @@ import { Participant } from "../types";
 interface ParticipantCardProps {
   participant: Participant;
   isTopWinner?: boolean;
+  isTop20?: boolean; // New prop to check if participant is in the top 20
 }
 
 const ParticipantCard: React.FC<ParticipantCardProps> = ({
   participant,
   isTopWinner = false,
+  isTop20 = false, // Default to false
 }) => {
   const cardClass = isTopWinner
     ? "bg-gradient-to-br from-yellow-400 to-orange-500 text-white"
+    : isTop20
+    ? "bg-gradient-to-br from-custom-blue-light to-custom-blue-dark text-black" // Green background for top 20
     : "bg-white hover:bg-gray-50";
 
   const getImageSrc = (rank: number): string => {
