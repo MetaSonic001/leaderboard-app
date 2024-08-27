@@ -129,7 +129,7 @@
       "Language": "English",
       "Marks": 0,
       "Rank": 11,
-      "Proper Ranks": 11
+      "Proper Ranks": "Absent"
     },
     {
       "ROLL NO": "YST24060",
@@ -141,7 +141,7 @@
       "Language": "Tamil",
       "Marks": 0,
       "Rank": 11.33333333,
-      "Proper Ranks": 11
+      "Proper Ranks": "Absent"
     },
     {
       "ROLL NO": "YST24042",
@@ -153,6 +153,6 @@
       "Language": "English",
       "Marks": 0,
       "Rank": 11.66666667,
-      "Proper Ranks": 11
+      "Proper Ranks": "Absent"
     }
   ]
